@@ -23,6 +23,7 @@ class _MyAppState extends State<MyApp> {
         return true;
       },
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         locale: ChangeLocalEvent.locale,
         localizationsDelegates: [
           GlobalMaterialLocalizations.delegate,
