@@ -1,4 +1,4 @@
-import 'package:bruno/src/components/picker/multi_range_picker/bean/brn_multi_column_picker_entity.dart';
+import 'package:neatui/src/components/picker/multi_range_picker/bean/brn_multi_column_picker_entity.dart';
 
 /// BrnMultiColumnPicker相关工具类
 class BrnMultiColumnPickerUtil {

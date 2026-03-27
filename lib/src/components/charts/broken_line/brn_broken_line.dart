@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:bruno/src/components/charts/broken_line/brn_line_data.dart';
-import 'package:bruno/src/components/charts/broken_line/brn_line_painter.dart';
-import 'package:bruno/src/components/charts/broken_line/brn_line_y_painter.dart';
+import 'package:neatui/src/components/charts/broken_line/brn_line_data.dart';
+import 'package:neatui/src/components/charts/broken_line/brn_line_painter.dart';
+import 'package:neatui/src/components/charts/broken_line/brn_line_y_painter.dart';
 import 'package:flutter/material.dart';
 
 /// 适用于需要折线图，曲线图的场景

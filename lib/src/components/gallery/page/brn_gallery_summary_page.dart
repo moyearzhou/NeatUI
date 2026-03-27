@@ -1,10 +1,10 @@
-import 'package:bruno/src/components/gallery/config/brn_basic_gallery_config.dart';
-import 'package:bruno/src/components/gallery/config/brn_controller.dart';
-import 'package:bruno/src/components/gallery/page/brn_gallery_detail_page.dart';
-import 'package:bruno/src/components/navbar/brn_appbar.dart';
-import 'package:bruno/src/components/scroll_anchor/brn_scroll_anchor_tab.dart';
-import 'package:bruno/src/components/tabbar/normal/brn_tab_bar.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
+import 'package:neatui/src/components/gallery/config/brn_basic_gallery_config.dart';
+import 'package:neatui/src/components/gallery/config/brn_controller.dart';
+import 'package:neatui/src/components/gallery/page/brn_gallery_detail_page.dart';
+import 'package:neatui/src/components/navbar/brn_appbar.dart';
+import 'package:neatui/src/components/scroll_anchor/brn_scroll_anchor_tab.dart';
+import 'package:neatui/src/components/tabbar/normal/brn_tab_bar.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
 import 'package:flutter/cupertino.dart';
 
 import 'package:flutter/material.dart';

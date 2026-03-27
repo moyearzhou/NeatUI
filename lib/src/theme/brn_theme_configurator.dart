@@ -1,5 +1,5 @@
-import 'package:bruno/src/theme/base/brn_default_config_utils.dart';
-import 'package:bruno/src/theme/configs/brn_all_config.dart';
+import 'package:neatui/src/theme/base/brn_default_config_utils.dart';
+import 'package:neatui/src/theme/configs/brn_all_config.dart';
 
 const String BRUNO_CONFIG_ID = 'BRUNO_CONFIG_ID';
 const String GLOBAL_CONFIG_ID = 'GLOBAL_CONFIG_ID';

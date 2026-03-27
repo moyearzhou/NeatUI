@@ -1,4 +1,4 @@
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/button/brn_text_button_panel_example.dart';
 import 'package:example/sample/components/button/button_panel_example.dart';
 import 'package:example/sample/home/list_item.dart';

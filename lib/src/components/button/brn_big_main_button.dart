@@ -1,5 +1,5 @@
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/theme/brn_theme.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/theme/brn_theme.dart';
 import 'package:flutter/material.dart';
 import 'brn_normal_button.dart';
 

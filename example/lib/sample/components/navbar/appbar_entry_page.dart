@@ -1,6 +1,6 @@
 
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/home/list_item.dart';
 import 'package:example/sample/components/navbar/nav_bar_example_page.dart';
 import 'package:flutter/material.dart';

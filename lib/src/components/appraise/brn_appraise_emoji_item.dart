@@ -1,5 +1,5 @@
-import 'package:bruno/src/components/appraise/brn_flutter_gif_image.dart';
-import 'package:bruno/src/constants/brn_strings_constants.dart';
+import 'package:neatui/src/components/appraise/brn_flutter_gif_image.dart';
+import 'package:neatui/src/constants/brn_strings_constants.dart';
 import 'package:flutter/material.dart';
 
 /// 评价组件单个表情包gif图

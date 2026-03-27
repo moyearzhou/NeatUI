@@ -38,7 +38,7 @@ dependencies:
 ### 代码引入
 
 ```dart
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 ```
 
 ### 主题定制

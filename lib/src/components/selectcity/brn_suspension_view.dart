@@ -1,4 +1,4 @@
-import 'package:bruno/src/components/selectcity/brn_az_common.dart';
+import 'package:neatui/src/components/selectcity/brn_az_common.dart';
 import 'package:flutter/material.dart';
 
 /// on all sus section callback(map: Used to scroll the list to the specified tag location).

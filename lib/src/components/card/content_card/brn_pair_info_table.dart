@@ -1,12 +1,12 @@
 import 'dart:math';
 
-import 'package:bruno/src/constants/brn_asset_constants.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/theme/brn_theme.dart';
-import 'package:bruno/src/utils/brn_rich_text.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
-import 'package:bruno/src/utils/css/brn_core_funtion.dart';
-import 'package:bruno/src/utils/css/brn_css_2_text.dart';
+import 'package:neatui/src/constants/brn_asset_constants.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/theme/brn_theme.dart';
+import 'package:neatui/src/utils/brn_rich_text.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
+import 'package:neatui/src/utils/css/brn_core_funtion.dart';
+import 'package:neatui/src/utils/css/brn_css_2_text.dart';
 import 'package:flutter/material.dart';
 
 /// key-value 展示信息的集合,需要配合[BrnInfoModal]使用

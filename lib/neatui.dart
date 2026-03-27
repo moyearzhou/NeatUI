@@ -244,3 +244,7 @@ export 'src/components/selectcity/brn_single_select_city_page.dart';
 
 // 切换
 export 'src/components/switch/brn_switch_button.dart';
+
+// GTUI 组件展示
+export 'src/components/showcase/gtui_component_showcase_page.dart';
+export 'src/components/showcase/gtui_showcase_data.dart';

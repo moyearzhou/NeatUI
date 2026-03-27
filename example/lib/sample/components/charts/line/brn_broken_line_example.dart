@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/charts/line/db_data_node_model.dart';
 import 'package:flutter/material.dart';
 

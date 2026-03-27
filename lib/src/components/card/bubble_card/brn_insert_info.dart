@@ -1,7 +1,7 @@
 
 
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/material.dart';
 
 /// 气泡背景的文本

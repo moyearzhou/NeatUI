@@ -1,5 +1,5 @@
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/theme/configs/brn_all_config.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/configs/brn_all_config.dart';
 
 /// Bruno 初始化
 class BrnInitializer {

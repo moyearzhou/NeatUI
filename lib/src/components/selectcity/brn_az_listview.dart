@@ -1,6 +1,6 @@
-import 'package:bruno/src/components/selectcity/brn_az_common.dart';
-import 'package:bruno/src/components/selectcity/brn_index_bar.dart';
-import 'package:bruno/src/components/selectcity/brn_suspension_view.dart';
+import 'package:neatui/src/components/selectcity/brn_az_common.dart';
+import 'package:neatui/src/components/selectcity/brn_index_bar.dart';
+import 'package:neatui/src/components/selectcity/brn_suspension_view.dart';
 import 'package:flutter/material.dart';
 
 /// Called to build children for the listView.

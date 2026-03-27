@@ -1,4 +1,4 @@
-import 'package:bruno/src/components/charts/brn_doughunt_chart/brn_doughnut_chart.dart';
+import 'package:neatui/src/components/charts/brn_doughunt_chart/brn_doughnut_chart.dart';
 import 'package:flutter/material.dart';
 
 /// 排列方式

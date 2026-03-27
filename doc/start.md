@@ -38,7 +38,7 @@ flutter pub get
 代码引入：
 
 ```dart
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 ```
 
 如果你想换「风格」或者适配其它「机型」如 PAD 请参照 [主题定制](./theme) 操作

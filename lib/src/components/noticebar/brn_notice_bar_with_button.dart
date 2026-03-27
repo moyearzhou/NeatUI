@@ -1,4 +1,4 @@
-import 'package:bruno/src/components/noticebar/brn_marquee_text.dart';
+import 'package:neatui/src/components/noticebar/brn_marquee_text.dart';
 import 'package:flutter/material.dart';
 
 /// 描述: 左边标签，右边按钮的通知

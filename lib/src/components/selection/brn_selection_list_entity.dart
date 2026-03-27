@@ -1,4 +1,4 @@
-import 'package:bruno/src/components/selection/bean/brn_selection_common_entity.dart';
+import 'package:neatui/src/components/selection/bean/brn_selection_common_entity.dart';
 
 class BrnSelectionEntityListBean {
   List<BrnSelectionEntity>? list;

@@ -1,9 +1,9 @@
 
 
-import 'package:bruno/src/components/text/brn_expandable_text.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/components/text/brn_expandable_text.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
 import 'package:flutter/material.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 
 /// 具备展开收起功能的气泡背景文字面板
 /// 气泡：背景色为Color(0xFFF8F8F8)的灰色Container

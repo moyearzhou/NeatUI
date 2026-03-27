@@ -1,11 +1,11 @@
-import 'package:bruno/src/components/dialog/brn_dialog.dart';
-import 'package:bruno/src/components/dialog/brn_dialog_utils.dart';
-import 'package:bruno/src/constants/brn_asset_constants.dart';
-import 'package:bruno/src/constants/brn_constants.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/theme/configs/brn_dialog_config.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/dialog/brn_dialog.dart';
+import 'package:neatui/src/components/dialog/brn_dialog_utils.dart';
+import 'package:neatui/src/constants/brn_asset_constants.dart';
+import 'package:neatui/src/constants/brn_constants.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/configs/brn_dialog_config.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/material.dart';
 
 /// 点击item回调

@@ -1,4 +1,4 @@
-import 'package:bruno/src/utils/brn_event_bus.dart';
+import 'package:neatui/src/utils/brn_event_bus.dart';
 import 'package:flutter/material.dart';
 
 

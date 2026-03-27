@@ -3,8 +3,8 @@ library brn_intro;
 import 'dart:async';
 import 'dart:math';
 
-import 'package:bruno/src/components/guide/brn_pulse_widget.dart';
-import 'package:bruno/src/components/guide/brn_tip_widget.dart';
+import 'package:neatui/src/components/guide/brn_pulse_widget.dart';
+import 'package:neatui/src/components/guide/brn_tip_widget.dart';
 import 'package:flutter/material.dart';
 
 part 'brn_delay_rendered_widget.dart';

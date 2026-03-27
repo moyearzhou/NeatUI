@@ -1,4 +1,4 @@
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
 import 'package:flutter/material.dart';
 
 ///常见的阴影卡片，减少了冗余代码

@@ -2,7 +2,7 @@
 
 import 'dart:convert';
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/picker/cutomer_bottom_picker_example.dart';
 import 'package:example/sample/home/list_item.dart';
 import 'package:flutter/material.dart';

@@ -1,5 +1,5 @@
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:flutter/material.dart';
 
 /// 第二种searchba的示例，场景应用于 页面标题的下方

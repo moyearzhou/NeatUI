@@ -1,6 +1,6 @@
 
 
-import 'package:bruno/src/components/charts/brn_progress_chart/brn_progress_chart_painter.dart';
+import 'package:neatui/src/components/charts/brn_progress_chart/brn_progress_chart_painter.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 

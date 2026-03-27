@@ -1,10 +1,10 @@
 import 'dart:math';
 
-import 'package:bruno/src/components/dialog/brn_dialog.dart';
-import 'package:bruno/src/components/line/brn_line.dart';
-import 'package:bruno/src/constants/brn_asset_constants.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/dialog/brn_dialog.dart';
+import 'package:neatui/src/components/line/brn_line.dart';
+import 'package:neatui/src/constants/brn_asset_constants.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/material.dart';
 
 /// 获取对应 index 行内容的回调。类型必须为 String 或者自定义的 widget.自定义 widget 时，左边的 icon 会自动隐藏，自定义widget填充整行。

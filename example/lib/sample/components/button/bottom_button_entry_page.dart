@@ -1,4 +1,4 @@
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/button/common_collection_example.dart';
 import 'package:example/sample/components/button/selection_collection_example.dart';
 import 'package:example/sample/home/list_item.dart';

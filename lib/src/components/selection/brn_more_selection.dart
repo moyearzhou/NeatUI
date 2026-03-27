@@ -1,16 +1,16 @@
 import 'dart:async';
 
-import 'package:bruno/src/components/button/brn_big_main_button.dart';
-import 'package:bruno/src/components/line/brn_line.dart';
-import 'package:bruno/src/components/selection/bean/brn_selection_common_entity.dart';
-import 'package:bruno/src/components/selection/brn_selection_util.dart';
-import 'package:bruno/src/components/selection/brn_selection_view.dart';
-import 'package:bruno/src/components/selection/widget/brn_selection_more_item_widget.dart';
-import 'package:bruno/src/components/toast/brn_toast.dart';
-import 'package:bruno/src/constants/brn_asset_constants.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/theme/configs/brn_selection_config.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/button/brn_big_main_button.dart';
+import 'package:neatui/src/components/line/brn_line.dart';
+import 'package:neatui/src/components/selection/bean/brn_selection_common_entity.dart';
+import 'package:neatui/src/components/selection/brn_selection_util.dart';
+import 'package:neatui/src/components/selection/brn_selection_view.dart';
+import 'package:neatui/src/components/selection/widget/brn_selection_more_item_widget.dart';
+import 'package:neatui/src/components/toast/brn_toast.dart';
+import 'package:neatui/src/constants/brn_asset_constants.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/theme/configs/brn_selection_config.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/material.dart';
 
 /// 更多的多选页面

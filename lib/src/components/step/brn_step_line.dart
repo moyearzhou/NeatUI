@@ -1,4 +1,4 @@
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
 import 'package:flutter/material.dart';
 
 ///[index]这个属性主要是为了给左边的时间轴画部件来用的

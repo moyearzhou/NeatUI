@@ -74,7 +74,7 @@ dependencies:
 ## 示例
 
 ```dart
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 ...
 BrnBubbleText(
   maxLines: 3,

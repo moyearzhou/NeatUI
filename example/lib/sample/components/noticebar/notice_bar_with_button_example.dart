@@ -1,6 +1,6 @@
 
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:flutter/material.dart';
 
 /// 描述: 带按钮的通知example

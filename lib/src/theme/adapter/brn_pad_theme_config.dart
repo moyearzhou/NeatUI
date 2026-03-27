@@ -1,4 +1,4 @@
-import 'package:bruno/src/theme/base/brn_text_style.dart';
+import 'package:neatui/src/theme/base/brn_text_style.dart';
 import 'package:flutter/material.dart';
 
 import '../configs/brn_all_config.dart';

@@ -1,9 +1,9 @@
-import 'package:bruno/src/components/gallery/config/brn_basic_gallery_config.dart';
-import 'package:bruno/src/components/gallery/config/brn_bottom_card.dart';
-import 'package:bruno/src/components/loading/brn_loading.dart';
-import 'package:bruno/src/constants/brn_strings_constants.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/theme/configs/brn_gallery_detail_config.dart';
+import 'package:neatui/src/components/gallery/config/brn_basic_gallery_config.dart';
+import 'package:neatui/src/components/gallery/config/brn_bottom_card.dart';
+import 'package:neatui/src/components/loading/brn_loading.dart';
+import 'package:neatui/src/constants/brn_strings_constants.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/configs/brn_gallery_detail_config.dart';
 import 'package:flutter/material.dart';
 import 'package:photo_view/photo_view.dart';
 

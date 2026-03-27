@@ -1,11 +1,11 @@
-import 'package:bruno/src/components/selection/bean/brn_selection_common_entity.dart';
-import 'package:bruno/src/components/selection/brn_more_selection.dart';
-import 'package:bruno/src/components/selection/controller/brn_selection_view_controller.dart';
-import 'package:bruno/src/components/selection/converter/brn_selection_converter.dart';
-import 'package:bruno/src/components/selection/widget/brn_selection_menu_widget.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/theme/configs/brn_selection_config.dart';
-import 'package:bruno/src/utils/brn_event_bus.dart';
+import 'package:neatui/src/components/selection/bean/brn_selection_common_entity.dart';
+import 'package:neatui/src/components/selection/brn_more_selection.dart';
+import 'package:neatui/src/components/selection/controller/brn_selection_view_controller.dart';
+import 'package:neatui/src/components/selection/converter/brn_selection_converter.dart';
+import 'package:neatui/src/components/selection/widget/brn_selection_menu_widget.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/configs/brn_selection_config.dart';
+import 'package:neatui/src/utils/brn_event_bus.dart';
 import 'package:flutter/material.dart';
 
 /// 配置 类型为 Range 展示时，每行 tag 的数量

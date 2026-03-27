@@ -1,5 +1,5 @@
-import 'package:bruno/src/components/selection/bean/brn_selection_common_entity.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/selection/bean/brn_selection_common_entity.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 
 const double DESIGN_SELECTION_HEIGHT = 268;
 const double DESIGN_BOTTOM_HEIGHT = 82;

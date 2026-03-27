@@ -2,7 +2,7 @@
 
 import 'dart:convert';
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/selection/flat_selection_five_tags_example.dart';
 import 'package:example/sample/components/selection/flat_selection_four_tags_example.dart';
 import 'package:example/sample/components/selection/flat_selection_three_tags_example.dart';

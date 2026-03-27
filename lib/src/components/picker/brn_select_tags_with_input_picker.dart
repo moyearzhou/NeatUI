@@ -1,8 +1,8 @@
-import 'package:bruno/src/components/picker/brn_picker_cliprrect.dart';
-import 'package:bruno/src/constants/brn_asset_constants.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/picker/brn_picker_cliprrect.dart';
+import 'package:neatui/src/constants/brn_asset_constants.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/material.dart';
 
 ///传入的泛型数据转换为值 以填充Widget

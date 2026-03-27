@@ -2,7 +2,7 @@
 
 import 'dart:async';
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:flutter/material.dart';
 
 /// @desc    弱引导example

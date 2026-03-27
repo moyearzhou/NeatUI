@@ -1,6 +1,6 @@
 import 'package:bindings_compatible/bindings_compatible.dart';
-import 'package:bruno/src/components/popup/brn_measure_size.dart';
-import 'package:bruno/src/components/tabbar/normal/brn_tab_bar.dart';
+import 'package:neatui/src/components/popup/brn_measure_size.dart';
+import 'package:neatui/src/components/tabbar/normal/brn_tab_bar.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 

@@ -1,6 +1,6 @@
 
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/card/content/keyvalue_align_content_example.dart';
 import 'package:example/sample/components/card/content/keyvalue_close_content_example.dart';
 import 'package:example/sample/components/card/content/number_item_example.dart';

@@ -1,6 +1,6 @@
 
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/selection/filter_entity.dart';
 import 'package:flutter/material.dart';
 

@@ -1,6 +1,6 @@
 
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/card_title/brn_action_title_example.dart';
 import 'package:example/sample/components/card_title/brn_common_title_example.dart';
 import 'package:example/sample/components/tabbar/brn_switch_title_example.dart';

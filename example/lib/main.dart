@@ -1,47 +1,23 @@
-import 'package:bruno/bruno.dart';
-import 'sample/l10n/l10n.dart';
 import 'package:example/sample/home/home.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
 
 void main() {
-  BrnIntl.add(ResourceDe.locale, ResourceDe());
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
-class MyApp extends StatefulWidget {
-  @override
-  _MyAppState createState() => _MyAppState();
-}
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
 
-class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
-    return NotificationListener<ChangeLocalEvent>(
-      onNotification: (_) {
-        setState(() {});
-        return true;
-      },
-      child: MaterialApp(
-        debugShowCheckedModeBanner: false,
-        locale: ChangeLocalEvent.locale,
-        localizationsDelegates: [
-          GlobalMaterialLocalizations.delegate,
-          GlobalWidgetsLocalizations.delegate,
-          GlobalCupertinoLocalizations.delegate,
-          BrnLocalizationDelegate.delegate,
-        ],
-        supportedLocales: [
-          Locale('en', 'US'),
-          Locale('zh', 'CN'),
-          Locale('de', 'DE'),
-        ],
-        title: 'Flutter Example',
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-        ),
-        home: HomePage(),
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: 'Neat Components',
+      theme: ThemeData(
+        primarySwatch: Colors.red,
+        useMaterial3: false,
       ),
+      home: HomePage(),
     );
   }
 }

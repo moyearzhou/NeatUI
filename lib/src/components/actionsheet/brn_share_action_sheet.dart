@@ -1,8 +1,8 @@
-import 'package:bruno/src/components/line/brn_line.dart';
-import 'package:bruno/src/constants/brn_constants.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/line/brn_line.dart';
+import 'package:neatui/src/constants/brn_constants.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/material.dart';
 
 /// section为所在行数（0或1），index是在第几位（从0开始记）, shareItem为渠道相关信息

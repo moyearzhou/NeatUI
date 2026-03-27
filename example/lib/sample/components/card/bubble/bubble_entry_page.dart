@@ -1,6 +1,6 @@
 
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 import 'package:example/sample/components/card/bubble/common_bubble_example.dart';
 import 'package:example/sample/components/card/bubble/brn_expanded_bubble_example.dart';
 import 'package:example/sample/home/list_item.dart';

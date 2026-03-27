@@ -1,5 +1,5 @@
-import 'package:bruno/src/components/dialog/brn_safe_dialog.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
+import 'package:neatui/src/components/dialog/brn_safe_dialog.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
 import 'package:flutter/material.dart';
 
 /// 页面或者弹窗中间的圆形加载框，左侧是可定制的加载文案[content]，比如：加载中、提交中等等

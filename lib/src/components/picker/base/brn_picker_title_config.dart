@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:bruno/src/components/picker/base/brn_picker_constants.dart';
+import 'package:neatui/src/components/picker/base/brn_picker_constants.dart';
 
 class BrnPickerTitleConfig {
   /// DateTimePicker theme.

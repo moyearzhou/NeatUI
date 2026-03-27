@@ -1,4 +1,4 @@
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 
 class ExpendMultiSelectBottomPickerItem extends BrnMultiSelectBottomPickerItem {
   final String? attribute1;

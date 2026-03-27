@@ -1,14 +1,14 @@
-import 'package:bruno/src/components/appraise/brn_appraise_emoji_list_view.dart';
-import 'package:bruno/src/components/appraise/brn_appraise_header.dart';
-import 'package:bruno/src/components/appraise/brn_appraise_star_list_view.dart';
-import 'package:bruno/src/components/appraise/brn_mulit_select_tags.dart';
-import 'package:bruno/src/components/button/brn_big_main_button.dart';
-import 'package:bruno/src/components/input/brn_input_text.dart';
-import 'package:bruno/src/components/picker/brn_tags_picker_config.dart';
-import 'package:bruno/src/components/appraise/brn_appraise_config.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_emoji_list_view.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_header.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_star_list_view.dart';
+import 'package:neatui/src/components/appraise/brn_mulit_select_tags.dart';
+import 'package:neatui/src/components/button/brn_big_main_button.dart';
+import 'package:neatui/src/components/input/brn_input_text.dart';
+import 'package:neatui/src/components/picker/brn_tags_picker_config.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_config.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
 import 'package:flutter/material.dart';
-import 'package:bruno/src/components/appraise/brn_appraise_interface.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_interface.dart';
 
 /// /// /// /// /// /// /// /// /// /
 /// 描述: 评价组件

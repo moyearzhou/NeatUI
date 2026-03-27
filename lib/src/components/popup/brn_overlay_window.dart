@@ -1,7 +1,7 @@
 import 'dart:core';
 import 'dart:math';
 
-import 'package:bruno/src/components/popup/brn_measure_size.dart';
+import 'package:neatui/src/components/popup/brn_measure_size.dart';
 import 'package:flutter/material.dart';
 
 /// popWindow位于targetView的方向

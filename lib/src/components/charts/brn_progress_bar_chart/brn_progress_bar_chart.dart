@@ -1,4 +1,4 @@
-import 'package:bruno/src/components/charts/brn_progress_bar_chart/brn_progress_bar_chart_painter.dart';
+import 'package:neatui/src/components/charts/brn_progress_bar_chart/brn_progress_bar_chart_painter.dart';
 import 'package:flutter/material.dart';
 
 /// BrnProgressBarChart

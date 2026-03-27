@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:bruno/src/theme/base/brn_text_style.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/theme/configs/brn_tag_config.dart';
+import 'package:neatui/src/theme/base/brn_text_style.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/configs/brn_tag_config.dart';
 import 'package:flutter/material.dart';
 
 /// 选择模式的标签组合

@@ -1,9 +1,9 @@
-import 'package:bruno/src/components/appraise/brn_appraise.dart';
-import 'package:bruno/src/components/appraise/brn_appraise_header.dart';
-import 'package:bruno/src/components/appraise/brn_appraise_config.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
+import 'package:neatui/src/components/appraise/brn_appraise.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_header.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_config.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
 import 'package:flutter/material.dart';
-import 'package:bruno/src/components/appraise/brn_appraise_interface.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_interface.dart';
 
 /// 描述: 评价组件bottom picker，
 /// 对BrnAppraise做了一层封装，可直接使用在showDialog里面

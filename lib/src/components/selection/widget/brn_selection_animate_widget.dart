@@ -1,4 +1,4 @@
-import 'package:bruno/src/components/selection/controller/brn_selection_view_controller.dart';
+import 'package:neatui/src/components/selection/controller/brn_selection_view_controller.dart';
 import 'package:flutter/material.dart';
 
 /// 筛选动画展示隐藏组件

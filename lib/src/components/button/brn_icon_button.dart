@@ -1,4 +1,4 @@
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
 import 'package:flutter/material.dart';
 
 /// BrnIconButton组件，基于【BrnIconButton组件】图文组合组件

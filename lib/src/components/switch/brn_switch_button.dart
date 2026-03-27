@@ -1,4 +1,4 @@
-import 'package:bruno/src/theme/brn_theme.dart';
+import 'package:neatui/src/theme/brn_theme.dart';
 import 'package:flutter/material.dart';
 
 import 'brn_switch_button_base.dart';

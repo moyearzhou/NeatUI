@@ -1,6 +1,6 @@
-import 'package:bruno/src/components/noticebar/brn_marquee_text.dart';
-import 'package:bruno/src/constants/brn_asset_constants.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/noticebar/brn_marquee_text.dart';
+import 'package:neatui/src/constants/brn_asset_constants.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/material.dart';
 
 /// 描述: 通知，默认最小高度36

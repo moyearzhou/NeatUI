@@ -1,9 +1,9 @@
 
 
-import 'package:bruno/src/components/button/brn_big_ghost_button.dart';
-import 'package:bruno/src/components/button/brn_normal_button.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/theme/brn_theme.dart';
+import 'package:neatui/src/components/button/brn_big_ghost_button.dart';
+import 'package:neatui/src/components/button/brn_normal_button.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/theme/brn_theme.dart';
 import 'package:flutter/material.dart';
 
 /// 页面的边框按钮,没有背景颜色，占据父节点分配的最大空间

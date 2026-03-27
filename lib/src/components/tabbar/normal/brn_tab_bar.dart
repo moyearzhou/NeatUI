@@ -1,9 +1,9 @@
-import 'package:bruno/src/components/popup/brn_measure_size.dart';
-import 'package:bruno/src/components/tabbar/indicator/brn_custom_width_indicator.dart';
-import 'package:bruno/src/components/tabbar/normal/brn_tabbar_controller.dart';
-import 'package:bruno/src/constants/brn_asset_constants.dart';
-import 'package:bruno/src/theme/brn_theme.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/popup/brn_measure_size.dart';
+import 'package:neatui/src/components/tabbar/indicator/brn_custom_width_indicator.dart';
+import 'package:neatui/src/components/tabbar/normal/brn_tabbar_controller.dart';
+import 'package:neatui/src/constants/brn_asset_constants.dart';
+import 'package:neatui/src/theme/brn_theme.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 

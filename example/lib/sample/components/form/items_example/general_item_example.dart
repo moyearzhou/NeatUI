@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:bruno/bruno.dart';
+import 'package:neatui/neatui.dart';
 
 class GeneralFormExamplePage extends StatelessWidget {
   final String _title;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:bruno/src/components/input/brn_input_text.dart';
-import 'package:bruno/src/components/appraise/brn_appraise_interface.dart';
+import 'package:neatui/src/components/input/brn_input_text.dart';
+import 'package:neatui/src/components/appraise/brn_appraise_interface.dart';
 
 class BrnAppraiseConfig {
   /// 是否显示标题和关闭

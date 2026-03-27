@@ -1,4 +1,4 @@
-import 'package:bruno/src/theme/configs/brn_dialog_config.dart';
+import 'package:neatui/src/theme/configs/brn_dialog_config.dart';
 import 'package:flutter/material.dart';
 
 /// 弹窗的工具类

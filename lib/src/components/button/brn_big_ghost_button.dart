@@ -1,8 +1,8 @@
 
 
-import 'package:bruno/src/components/button/brn_normal_button.dart';
-import 'package:bruno/src/l10n/brn_intl.dart';
-import 'package:bruno/src/theme/brn_theme.dart';
+import 'package:neatui/src/components/button/brn_normal_button.dart';
+import 'package:neatui/src/l10n/brn_intl.dart';
+import 'package:neatui/src/theme/brn_theme.dart';
 import 'package:flutter/material.dart';
 
 /// 页面中和主题色相关的幽灵按钮 可以支持自定义背景颜色、文字颜色等

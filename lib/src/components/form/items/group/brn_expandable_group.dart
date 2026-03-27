@@ -5,11 +5,11 @@
 
 
 
-import 'package:bruno/src/components/form/utils/brn_form_util.dart';
-import 'package:bruno/src/constants/brn_asset_constants.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/theme/configs/brn_form_config.dart';
-import 'package:bruno/src/utils/brn_tools.dart';
+import 'package:neatui/src/components/form/utils/brn_form_util.dart';
+import 'package:neatui/src/constants/brn_asset_constants.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/configs/brn_form_config.dart';
+import 'package:neatui/src/utils/brn_tools.dart';
 import 'package:flutter/material.dart';
 
 /// A single-line [ListTile] with a trailing button that expands or collapses

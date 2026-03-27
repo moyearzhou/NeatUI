@@ -1,8 +1,8 @@
-import 'package:bruno/src/theme/base/brn_base_config.dart';
-import 'package:bruno/src/theme/base/brn_default_config_utils.dart';
-import 'package:bruno/src/theme/base/brn_text_style.dart';
-import 'package:bruno/src/theme/brn_theme_configurator.dart';
-import 'package:bruno/src/theme/configs/brn_common_config.dart';
+import 'package:neatui/src/theme/base/brn_base_config.dart';
+import 'package:neatui/src/theme/base/brn_default_config_utils.dart';
+import 'package:neatui/src/theme/base/brn_text_style.dart';
+import 'package:neatui/src/theme/brn_theme_configurator.dart';
+import 'package:neatui/src/theme/configs/brn_common_config.dart';
 import 'package:flutter/material.dart';
 
 /// TabBar配置类
